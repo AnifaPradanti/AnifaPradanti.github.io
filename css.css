@@ -1,0 +1,9 @@
+body {
+  background-image: url("bi.jpg")
+}
+p.serif {
+  font-family: "Georgia", Times, serif;
+}
+h1 {
+  font-size: 40px;
+}
